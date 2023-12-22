@@ -10,6 +10,9 @@
 .mid-menu{
 	padding-left: 30px;
 	padding-right: 10%;
+	padding-top: 10px;
+	background-color: white;
+	height: 50px;
 }
 .icon {
 	margin-top:5px;
@@ -17,10 +20,11 @@
 }
 
 .logo-top{
-	width: 5%;
+	width: 8%;
 	height: auto;
 	float: left;
 	padding-left: 13%;
+	padding-top: 10px;
 	
 }
 a {
@@ -48,6 +52,29 @@ display:flex;
 	padding: 10px;
 	width: 50px;
 	font-size: x-large;
+}
+
+.banner-container{
+	display: flex;
+	justify-content: center;
+	background-color: #FF8F19;
+}
+.find-club{
+	display: flex;
+	justify-content: center;
+	background-color: white;
+	
+}
+.ville-find{
+	display: flex;
+	gap: 20px;
+	list-style: none;
+	justify-content: center;
+}
+#disclaimer > h1 {
+	color: white;
+	font-size: xx-large;
+
 }
 body{
 	margin: 0;
