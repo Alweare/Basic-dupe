@@ -1,33 +1,54 @@
-Projet d'entraînement - Dupe du site Basic fit
-Work in progress 
+Projet d'entraînement - Dupe du site Basic fit  
+***
+Work in progress
+*** 
 
-Le but est d'avoir un site identique avec une bdd, inscription. 
+Le but est d'avoir un site identique avec une bdd, inscription.  
+***
 
-Techno
+Techno  
+***
+***
 
-Front 
+Front  
+***
 
-html/css // sans framework pour le premier
-Js 
+html/css // sans framework pour le premier  
+***
+Js   
+***
 
-Back
+Back  
+***
 
- Node.js
+ Node.js  
 
 
 
-Page d'acceuil
-[+] Nav barre
-[] HTML
-[] CSS Navbar
-[] CSS body
-[] Menu latéral 
-[] Responsive
+Page d'acceuil  
+[+] Nav barre  
+***
+[] HTML  
+***
+[] CSS Navbar  
+***
+[] CSS body  
+***
+[] Menu latéral  
+*** 
+[] Responsive  
+***
 
-Autre page
-[]
-[]
-[]
-[]
-[]
-[]
+Autre page  
+***
+[]  
+***
+[]  
+***
+[]  
+***
+[]  
+***
+[]  
+***
+[]  
