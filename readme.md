@@ -7,18 +7,14 @@ Le but est d'avoir un site identique avec une bdd, inscription.
 ***
 
 Techno  
-***
-***
 
 Front  
 ***
 
 html/css // sans framework pour le premier  
-***
 Js   
 ***
-
-Back  
+Back   
 ***
 
  Node.js  
@@ -27,28 +23,26 @@ Back
 
 Page d'acceuil  
 [+] Nav barre  
-***
+
 [] HTML  
-***
+
 [] CSS Navbar  
-***
+
 [] CSS body  
-***
+
 [] Menu latéral  
-*** 
+
 [] Responsive  
-***
 
 Autre page  
-***
+
 []  
-***
+
 []  
-***
+
 []  
-***
+
+
 []  
-***
-[]  
-***
+
 []  
