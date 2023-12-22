@@ -1,0 +1,55 @@
+.top-menu{
+	background-color: black;
+	color: white;
+	font-size: 15px;
+	height: 40px;
+	margin-top: 0;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.mid-menu{
+	padding-left: 30px;
+	padding-right: 10%;
+}
+.icon {
+	margin-top:5px;
+	
+}
+
+.logo-top{
+	width: 5%;
+	height: auto;
+	float: left;
+	padding-left: 13%;
+	
+}
+a {
+	color:black;
+	text-decoration: none;
+}
+a:hover{
+	color: orangered;
+}
+.mid-menu, .top-menu {
+list-style: none;
+display:flex;
+}
+
+.bouton-menu {
+	flex: 1 1 auto;
+	gap: 10px;
+	text-align: center;
+	font-size: large;
+	
+}
+.inscr-bouton {
+	background-color: #FE7000;
+	color: white;
+	padding: 10px;
+	width: 50px;
+	font-size: x-large;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
